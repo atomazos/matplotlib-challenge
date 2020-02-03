@@ -13,6 +13,7 @@ Using pandas library, I created the following four visualizations to show how fo
 ![Tumor_Change_over_45_Days_of_Treatment](https://user-images.githubusercontent.com/54033512/73682548-33fcf800-4686-11ea-8cb1-19fd12a61e80.png)
 
 KEY OBSERVATIONS REGARDING THE PYMACEUTICALS STUDY
+
 Overall, of the four relevant treatments under consideration - namely, Capomulin, Infubinol, Ketapril, and Placebo -  **Capomulin** seemed the most promising and effective in treating tumors in mice:
 
 1.  Capomulin is the only treatment for which tumor volume decreases over a 45 day period in mice.

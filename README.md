@@ -4,12 +4,11 @@ I created the following four visualizations to show how four treatments (Capomul
 
 * Scatter plot that shows how the tumor volume changes over time for each treatment:
 
+* Scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment:
 
-Scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment:
+* Scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate):
 
-Scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate):
-
-Bar graph that compares the total % tumor volume change for each drug across the full 45 days:
+* Bar graph that compares the total % tumor volume change for each drug across the full 45 days:
 
 KEY OBSERVATIONS REGARDING THE PYMACEUTICALS STUDY
 

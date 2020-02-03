@@ -12,7 +12,7 @@ Using pandas library, I created the following four visualizations to show how fo
 * Bar graph that compares the total % tumor volume change for each drug across the full 45 days:
 ![Tumor_Change_over_45_Days_of_Treatment](https://user-images.githubusercontent.com/54033512/73682548-33fcf800-4686-11ea-8cb1-19fd12a61e80.png)
 
-KEY OBSERVATIONS REGARDING THE PYMACEUTICALS STUDY
+**KEY OBSERVATIONS REGARDING THE PYMACEUTICALS STUDY**
 
 Overall, of the four relevant treatments under consideration - namely, Capomulin, Infubinol, Ketapril, and Placebo -  **Capomulin** seemed the most promising and effective in treating tumors in mice:
 
